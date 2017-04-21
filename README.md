@@ -3,10 +3,10 @@ A perosnal list of [Visual Studio Code](https://code.visualstudio.com/) packages
 For more, checkout [Awesome VS Code](https://github.com/viatsko/awesome-vscode)
 
 # Table of Content
-- [setting.json](#setting)
-- [Extensions](#extensions)
+- [Settings](Settings)
+- [Extensions](Extensions)
 
-## setting
+# Settings
 ```javascript
 {
 	"terminal.integrated.shell.windows": "C:\\Windows\\sysnative\\cmd.exe",
@@ -36,7 +36,7 @@ For more, checkout [Awesome VS Code](https://github.com/viatsko/awesome-vscode)
 }
 ```
 
-## Extensions
+# Extensions
 
 
 
