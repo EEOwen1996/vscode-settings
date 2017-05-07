@@ -11,8 +11,7 @@ For more, checkout [Awesome VS Code](https://github.com/viatsko/awesome-vscode)
 {
 	"terminal.integrated.shell.windows": "C:\\Windows\\sysnative\\cmd.exe",
 	// "terminal.integrated.shell.windows": "C:\\Windows\\sysnative\\bash.exe",
-	"files.autoSaveDelay": 600,
-	"files.autoSave": "afterDelay",
+	"files.autoSave": "onFocusChange",
 	"editor.minimap.enabled": true,
 	"html.format.wrapLineLength": 0,
 	"editor.insertSpaces": true,
@@ -32,7 +31,8 @@ For more, checkout [Awesome VS Code](https://github.com/viatsko/awesome-vscode)
 		"strings": true, // but in strings and the other parts of source files
 		"other": true
 	},
-	"workbench.editor.closeOnFileDelete": false
+	"workbench.editor.closeOnFileDelete": false,
+	"window.zoomLevel": 0
 }
 ```
 
