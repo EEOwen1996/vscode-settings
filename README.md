@@ -19,11 +19,10 @@ For more, checkout [Awesome VS Code](https://github.com/viatsko/awesome-vscode)
 	"git.confirmSync": false,
 	"editor.dragAndDrop": true,
 	"workbench.colorTheme": "Default Dark+",
-	"workbench.experimental.colorCustomizations": {
-		"editorLineNumbers": "#ffff00",
-		"editorCursor": "#00FFFF",
-		"activeTabActiveGroupForeground": "#00FF00",
-		"statusBarBackground": "#BB0802"
+	"workbench.colorCustomizations": {
+		"editorLineNumber.foreground": "#FFFF00",
+		"editorCursor.foreground": "#00FFFF",
+		"statusBar.background": "#BB0802"
 	},
 	"files.autoGuessEncoding": true,
 	"editor.quickSuggestions": {
