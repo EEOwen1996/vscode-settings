@@ -35,7 +35,8 @@ For more, checkout [Awesome VS Code](https://github.com/viatsko/awesome-vscode)
         "other": true
     },
     "workbench.editor.closeOnFileDelete": false,
-    "window.zoomLevel": 0
+    "window.zoomLevel": 0,
+    "window.reopenFolders": "none"
 }
 ```
 
