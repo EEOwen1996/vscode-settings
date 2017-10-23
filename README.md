@@ -37,8 +37,7 @@ For more, checkout [Awesome VS Code](https://github.com/viatsko/awesome-vscode)
     "workbench.editor.closeOnFileDelete": false,
     "window.zoomLevel": 0,
     "git.enableSmartCommit": true,
-    // "editor.fontFamily": "hack,'Ubuntu Mono',Consolas, 'Courier New', monospace"
-    "editor.fontFamily": "Consolas, 'Courier New', monospace",
+    "editor.fontFamily": "Consolas, 'Ubuntu Mono', Mocano, 'Courier New', monospace",
     "window.menuBarVisibility": "toggle",
     "python.linting.enabled": false,
     "python.workspaceSymbols.tagFilePath": ""
