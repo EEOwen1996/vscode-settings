@@ -16,6 +16,7 @@ For more, checkout [Awesome VS Code](https://github.com/viatsko/awesome-vscode)
     "html.format.wrapLineLength": 0,
     "editor.insertSpaces": true,
     "editor.tabSize": 4,
+    "editor.fontSize": 16,
     "editor.detectIndentation": false,
     "workbench.iconTheme": "vs-seti",
     "git.confirmSync": false,
@@ -40,7 +41,8 @@ For more, checkout [Awesome VS Code](https://github.com/viatsko/awesome-vscode)
     "editor.fontFamily": "Consolas, 'Ubuntu Mono', Mocano, 'Courier New', monospace",
     "window.menuBarVisibility": "toggle",
     "python.linting.enabled": false,
-    "python.workspaceSymbols.tagFilePath": ""
+    "python.workspaceSymbols.tagFilePath": "",
+    "python.venvPath": "~/.pyenv"
 }
 ```
 
