@@ -45,8 +45,3 @@ For more, checkout [Awesome VS Code](https://github.com/viatsko/awesome-vscode)
     "python.venvPath": "~/.pyenv"
 }
 ```
-
-# Extensions
-
-
-
