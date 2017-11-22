@@ -4,7 +4,6 @@ For more, checkout [Awesome VS Code](https://github.com/viatsko/awesome-vscode)
 
 # Table of Content
 - [Settings](Settings)
-- [Extensions](Extensions)
 
 # Settings
 ```javascript
