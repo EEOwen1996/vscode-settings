@@ -16,6 +16,7 @@ For more, checkout [Awesome VS Code](https://github.com/viatsko/awesome-vscode)
     "editor.insertSpaces": true,
     "editor.tabSize": 4,
     "editor.fontSize": 16,
+    "terminal.integrated.fontSize": 16,
     "editor.detectIndentation": false,
     "workbench.iconTheme": "vs-seti",
     "git.confirmSync": false,
@@ -41,6 +42,30 @@ For more, checkout [Awesome VS Code](https://github.com/viatsko/awesome-vscode)
     "window.menuBarVisibility": "toggle",
     "python.linting.enabled": false,
     "python.workspaceSymbols.tagFilePath": "",
-    "python.venvPath": "~/.pyenv"
+    "python.venvPath": "~/.pyenv",
+    "latex-workshop.latex.clean.enabled": true,
+    "latex-workshop.latex.clean.fileTypes": [
+        "*.aux",
+        "*.bbl",
+        "*.blg",
+        "*.idx",
+        "*.ind",
+        "*.lof",
+        "*.lot",
+        "*.out",
+        "*.toc",
+        "*.acn",
+        "*.acr",
+        "*.alg",
+        "*.glg",
+        "*.glo",
+        "*.gls",
+        "*.ist",
+        "*.fls",
+        "*.log",
+        "*.fdb_latexmk",
+        "*.synctex",
+        "*.synctex.gz"
+    ]
 }
 ```
