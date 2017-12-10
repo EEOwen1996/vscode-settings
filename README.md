@@ -66,6 +66,20 @@ For more, checkout [Awesome VS Code](https://github.com/viatsko/awesome-vscode)
         "*.fdb_latexmk",
         "*.synctex",
         "*.synctex.gz"
-    ]
+    ],
+    "latex-workshop.latex.toolchain": [
+        {
+            "command": "latexmk",
+            "args": [
+                "-synctex=1",
+                "-interaction=nonstopmode",
+                "-output-directory=build",
+                "-file-line-error",
+                "-pdf",
+                "%DOC%"
+            ]
+        }
+    ],
+    "latex-workshop.latex.outputDir": "./build"
 }
 ```
